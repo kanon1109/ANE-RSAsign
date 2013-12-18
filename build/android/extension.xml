@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/3.5">
+  <id>com.rsaAne.ane</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>rsaane.jar</nativeLibrary>
+        <initializer>com.rsaAne.ane.RsaAneExtension</initializer>
+        <finalizer>com.rsaAne.ane.RsaAneExtension</finalizer>
+      </applicationDeployment>
+    </platform>
+  </platforms>
+</extension>
