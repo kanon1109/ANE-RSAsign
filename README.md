@@ -9,4 +9,4 @@ android 放的是 生成jar的 java代码
 
 build放的是生成ane的目录
 
-aneTest 放的是 测试ane并发布apk的代码和
+aneTest 放的是 测试ane并发布apk和代码
