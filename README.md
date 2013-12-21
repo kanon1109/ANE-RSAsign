@@ -1,4 +1,4 @@
-rsaAne
+ANE-RSAsign
 ======
 
 RSA sign algorithm ane，RSA签名扩展，用于替换as3中过于复杂的生成签名算法。
